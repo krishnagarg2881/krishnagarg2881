@@ -102,18 +102,6 @@ Java-based Morse Code Encoder & Decoder application.
 ## 🌐 Portfolio Website
 Personal portfolio website showcasing projects, skills, and achievements.
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-![snake gif](https://github.com/krishnagarg2881/krishnagarg2881/blob/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
-
 # 💡 Quote
 
 <p align="center">
